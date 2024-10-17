@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I'm Alex Wilkins! I'm the web developer and graphic designer at Berwick Insurance Group 💊 focused on creating and integrating website user experiences which enable agents to become more effective in their careers as Medicare Sales Agents.
+
+# About Me
+---
+blah ablha
 
 <!--
 **Alexander-Wilkins/Alexander-Wilkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
