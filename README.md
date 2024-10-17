@@ -1,7 +1,6 @@
 👋 Hi, I'm Alex Wilkins! I'm the web developer and graphic designer at **Berwick Insurance Group**  focused on creating and integrating website user experiences which enable agents to become more effective in their careers as Medicare Sales Agents.
 
 # About Me 🌟
----
 I'm a proud husband and father! As a skilled graphic designer and web developer, I possess a unique ability to combine creative vision with technical expertise. I specialize in crafting innovative solutions that seamlessly blend aesthetics and functionality. My passion lies in solving complex problems and delivering exceptional results for clients.
 
 ## Technical Skills 🛠️
