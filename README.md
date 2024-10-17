@@ -7,7 +7,7 @@ I'm a proud husband and father! As a skilled graphic designer and web developer,
 - **Language:** Javascript, Typescript, Python, C#, PHP
 - **Frameworks & Libraries:** React, Next.js, Node.js, Sveltekit, Prisma
 - **Tools & Platforms:** Bash, Figma Github, Plesk Obsidian, Docker, Strapi, ExpressionEngine
-- **Databases:** MySQL
+- **Databases:** MySQL, Supabase
 
 ## Key Projects 📚 
 - **Berwick Agent Portal:** A dashboard enabling agents to access various sales and marketing materials, training, and compliance.
