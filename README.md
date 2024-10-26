@@ -10,7 +10,7 @@ I'm a proud husband and father! As a skilled graphic designer and web developer,
 - **Databases:** MySQL, Supabase
 
 ## Key Projects 📚 
-- **Berwick Agent Portal:** A dashboard enabling agents to access various sales and marketing materials, training, and compliance.
+- **[Berwick Agent Portal](https://berwickinsurance.com/):** A dashboard enabling agents to access various sales and marketing materials, training, and compliance.
 - **Garthok 2.0**: A proprietary web application built on a legacy CRM tool, used to track design requests notify marketing staff of changes and track schedules.
 - **Addisigns Cut Size Calculator:** A tool used by Addisigns to input retainer sign signs and determine the cut dimensions of acrylic panels. 
 - **[Poco Comics:](https://pococomics.com/)** A personal website where I host my webcomic Poco. 
