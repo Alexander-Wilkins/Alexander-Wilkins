@@ -5,8 +5,8 @@ I'm a proud husband and father! As a skilled graphic designer and web developer,
 
 ## Technical Skills 🛠️
 - **Language:** Javascript, Typescript, Python, C#, PHP
-- **Frameworks & Libraries:** React, Next.js, Node.js, Sveltekit, Prisma
-- **Tools & Platforms:** Bash, Figma Github, Plesk Obsidian, Docker, Strapi, ExpressionEngine
+- **Frameworks &Libraries:** React, Next.js, Node.js, Sveltekit, Prisma
+- **Tools & Platforms:** Bash, Figma, Github, Plesk Obsidian, Docker, Strapi, ExpressionEngine, Wordpress
 - **Databases:** MySQL, Supabase
 
 ## Key Projects 📚 
